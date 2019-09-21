@@ -1,0 +1,39 @@
+.icone-nav-bar{
+	margin-bottom: 4px;
+	color: white;
+}
+.hr-titulo{
+	color: #ffc107 !important;
+	background-color: #ffc107 !important;
+	height: 4px;
+	border-radius: 9px;
+} 
+.opacidade-instagram:hover{
+	opacity: 0.5;
+}
+.opacidade-facebook:hover{
+	opacity: 0.5;
+}
+.opacidade-whatsapp:hover{
+	opacity: 0.5;
+}
+.card-sanduiche:hover{
+	box-shadow: 0 .125rem 1.25rem rgba(0,0,0,.075)!important
+}
+.card-salgado:hover{
+	box-shadow: 0 .125rem 1.25rem rgba(0,0,0,.075)!important
+}
+.card-tapioca:hover{ 
+	box-shadow: 0 .125rem 1.25rem rgba(0,0,0,.075)!important
+}
+.card-suco:hover{
+	box-shadow: 0 .125rem 1.25rem rgba(0,0,0,.075)!important
+}
+#ancora-onde-estamos{
+	padding: 8px 0px 2px 17px;
+}
+.teste:hover {
+    color: white !important;
+    background: transparent !important;
+    border-color: white !important;
+}
